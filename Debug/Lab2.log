@@ -1,0 +1,17 @@
+﻿  Lab2.cpp
+C:\Users\Jhond\source\repos\Lab2\Lab2\Lab2.cpp(37,44): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\Jhond\source\repos\Lab2\Lab2\Lab2.cpp(91,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jhond\source\repos\Lab2\Lab2\Lab2.cpp(111,11): warning C4129: ':': unrecognized character escape sequence
+C:\Users\Jhond\source\repos\Lab2\Lab2\Lab2.cpp(111,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Jhond\source\repos\Lab2\Lab2\Lab2.cpp(120,11): warning C4129: ':': unrecognized character escape sequence
+C:\Users\Jhond\source\repos\Lab2\Lab2\Lab2.cpp(120,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Jhond\source\repos\Lab2\Lab2\Lab2.cpp(133,44): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\Jhond\source\repos\Lab2\Lab2\Lab2.cpp(135,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jhond\source\repos\Lab2\Lab2\Lab2.cpp(163,18): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jhond\source\repos\Lab2\Lab2\Lab2.cpp(191,21): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jhond\source\repos\Lab2\Lab2\Lab2.cpp(202,29): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jhond\source\repos\Lab2\Lab2\Lab2.cpp(204,12): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Jhond\source\repos\Lab2\Lab2\Lab2.cpp(208,12): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Jhond\source\repos\Lab2\Lab2\Lab2.cpp(212,12): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Jhond\source\repos\Lab2\Lab2\Lab2.cpp(216,15): warning C4129: '_': unrecognized character escape sequence
+  Lab2.vcxproj -> C:\Users\Jhond\source\repos\Lab2\Debug\Lab2.exe
