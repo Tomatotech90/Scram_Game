@@ -1,8 +1,8 @@
 /*
 
-Jonathan Morales                                                             9/22/20
+Jonathan Morales                                                             
 
-Professor: Dr.Lawrence Muller                                                MAC-125
+                                            
 
 LAB#2
 
